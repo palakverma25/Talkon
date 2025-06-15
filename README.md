@@ -1,4 +1,4 @@
-# 💬 Talkon
+# 💬 TalkOn
 
 **Talkon** is a full-stack real-time chat application built with the **MERN stack** and **Socket.IO**. It features secure authentication, image sharing, user search, and an elegant UI designed for both desktop and mobile.
 
